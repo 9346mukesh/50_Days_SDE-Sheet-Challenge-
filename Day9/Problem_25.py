@@ -1,3 +1,13 @@
+"""
+Data Structure :- LinkedLists(Singly Linked List)
+Problem Title :- find the middlenode of the linked list
+Problem Statement :- Given the head of a linked list of integers, determine the middle node of the linked list.
+However, if the linked list has an even number of nodes, return the second middle node.
+(Time Complexity :- O(n/2) and Space Complexity :- O(1))
+
+"""
+
+
 class Node:
     def __init__(self, data):
         self.data = data

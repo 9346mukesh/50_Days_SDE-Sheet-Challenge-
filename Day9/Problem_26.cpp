@@ -1,3 +1,12 @@
+
+/* Data Structure :- Linked List(Single Linked List)
+Problem Title :- Reverse a Linked List
+Problem Statement :-Given the head of a singly linked list, write a program to reverse the linked list,
+and return the head pointer to the reversed list.
+(Time Complexity :- O(n) and Space Complexity :- O(1))
+*/
+
+
 #include<bits/stdc++.h>
 using namespace std;
 
