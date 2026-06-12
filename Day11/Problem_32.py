@@ -1,3 +1,16 @@
+
+"""
+Data Structure :- LinkedLists(Single Linked Lists)
+Problem Title :- Find intersection of Two Linked Lists
+Problem Statement :- Given the heads of two singly linked-lists headA and headB, return the node at which the two lists intersect. 
+If the two linked lists have no intersection at all, return null.
+(Time Complexity :- O(2 × max(length of list1, length of list2)) and Space Complexity :- O(1)
+
+"""
+
+
+
+
 class Node:
     def __init__(self, data):
         self.data = data

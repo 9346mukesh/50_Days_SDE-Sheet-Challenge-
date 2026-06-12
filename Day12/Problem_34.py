@@ -1,10 +1,13 @@
-"""
-Data Structure :- LinkedLists(Single Linked Lists)
-Problem Title :- Detect a Cycle in a Linked List and starting point of the cycle.
-Problem Statement :- Given a Linked List, determine whether the linked list contains a cycle or not. If it does contain a cycle, return the node where the cycle begins. If there is no cycle, return null.
-(Time Complexity :- O(max(m,n)) and Space Complexity :- O(max(m,n)+)1.
 
 """
+Data Structure :- LinkedLists(Single Linked List)
+Problem Title :- Starting point of loop in a Linked List
+Problem Statement :- Given the head of a linked list that may contain a cycle, return the starting point of that cycle. 
+If there is no cycle in the linked list return null.
+(Time Complexity :- O(n) and Space Complexity :- O(1))
+
+"""
+
 
 
 class Node:
